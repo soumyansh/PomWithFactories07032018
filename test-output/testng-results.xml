@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80419" started-at="2018-07-08T17:45:27Z" finished-at="2018-07-08T17:46:48Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="47181" started-at="2018-07-08T17:45:27Z" finished-at="2018-07-08T17:46:15Z">
+      <class name="testcases.FlightSearch">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.FlightSearch@ba2b86]" name="setup" is-config="true" duration-ms="21654" started-at="2018-07-08T23:15:27Z" finished-at="2018-07-08T23:15:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="FlightSearchTest()[pri:0, instance:testcases.FlightSearch@ba2b86]" name="FlightSearchTest" duration-ms="12815" started-at="2018-07-08T23:15:49Z" finished-at="2018-07-08T23:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.FlightSearch@ba2b86]" name="tearDown" is-config="true" duration-ms="11384" started-at="2018-07-08T23:16:03Z" finished-at="2018-07-08T23:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.FlightSearch -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="33224" started-at="2018-07-08T17:46:15Z" finished-at="2018-07-08T17:46:48Z">
+      <class name="testcases.SignInTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.SignInTest@64cb25]" name="setup" is-config="true" duration-ms="16367" started-at="2018-07-08T23:16:15Z" finished-at="2018-07-08T23:16:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:testcases.SignInTest@64cb25]" name="signInTest" duration-ms="8549" started-at="2018-07-08T23:16:31Z" finished-at="2018-07-08T23:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.SignInTest@64cb25]" name="tearDown" is-config="true" duration-ms="7994" started-at="2018-07-08T23:16:40Z" finished-at="2018-07-08T23:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SignInTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
